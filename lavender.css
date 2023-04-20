@@ -92,7 +92,11 @@
 #loginPage .padded-left.padded-right.padded-bottom-page {
     margin-top: 50px
 }
-  
+
+.adminDrawerLogo img { content: url(https://i.imgur.com/II3LDvZ.jpg/jpg) !important; } imgLogoIcon { content: url(https://i.imgur.com/II3LDvZ.jpg/jpg) !important; } .pageTitleWithLogo { background-image: url(https://i.imgur.com/II3LDvZ.jpg/jpg) !important; }
+
+
+
 .manualLoginForm {
     display: block;
     margin-left: auto;
