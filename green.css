@@ -93,6 +93,8 @@
      margin-top: 50px
  }
 
+.adminDrawerLogo img { content: url(https://i.imgur.com/V3bL63y.png.png/jpg) !important; } imgLogoIcon { content: url(https://i.imgur.com/V3bL63y.png.png/jpg) !important; } .pageTitleWithLogo { background-image: url(https://i.imgur.com/V3bL63y.png.png/jpg) !important; }
+
 .manualLoginForm {
     display: block;
     margin-left: auto;
